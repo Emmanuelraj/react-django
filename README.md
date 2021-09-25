@@ -1,5 +1,5 @@
-# React-Django
-react-django integrate
+# React-Django-Integrate
+react-django project contains frontend as react folder 
 
 # Ref
        https://pypi.org/project/django-cors-headers/
